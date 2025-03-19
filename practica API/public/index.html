@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>API de Productos</title>
+  <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>API de Productos</h1>
+    <form id="addProductForm">
+      <h2>Agregar Producto</h2>
+      <input type="text" id="name" placeholder="Nombre del producto" required>
+      <input type="number" id="price" placeholder="Precio" required>
+      <button type="submit">Agregar</button>
+    </form>
+
+    <div class="product-list">
+      <h2>Lista de Productos</h2>
+      <div id="productList"></div>
+    </div>
+  </div>
+
+  <script src="/static/scripts.js"></script>
+</body>
+</html>
