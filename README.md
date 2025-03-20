@@ -11,7 +11,7 @@ Este proyecto es una API básica para manejar productos, utilizando Node.js. Per
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/repositorio.git
+   git clone https://github.com/CAMCDI/API.git
    ```
 
 2. Navega al directorio del proyecto:
