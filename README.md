@@ -16,7 +16,7 @@ Este proyecto es una API básica para manejar productos, utilizando Node.js. Per
 
 2. Navega al directorio del proyecto:
    ```bash
-   cd nombre-del-proyecto
+   cd practica API
    ```
 
 3. Instala las dependencias:
